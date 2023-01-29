@@ -1,0 +1,50 @@
+h3 {
+  color: blue;
+}
+
+.card {
+  display: grid;
+  margin: 175px;
+  padding: 15px;
+  background: radial-gradient(
+    592px at 48.2% 50%,
+    rgba(255, 255, 249, 0.6) 0%,
+    rgb(160, 199, 254) 74.6%
+  );
+}
+
+.city {
+  color: blue;
+  font-weight: 400;
+}
+
+.day {
+  font-weight: bold;
+}
+
+.search-box {
+  margin: 8px 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.snowflake-icon {
+  color: #00bbf0;
+}
+
+.cloud-icon {
+  color: #cccbce;
+}
+
+.sun-icon {
+  color: #fcd53f;
+}
+
+.units {
+  font-size: 20px;
+}
+
+.temperature {
+  font-size: 40px;
+}
